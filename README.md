@@ -1,2 +1,2 @@
 - This is the Repository for alpha-blog app using Ruby on Rails
-- Created this app for the purpose of configuring Rails with Github
+- Created this simple app for the purpose of configuring Rails with Github
